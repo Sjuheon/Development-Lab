@@ -1,9 +1,11 @@
-# Java EveryDay! - Sjuheon
-<pic>
-My personal record for Java study
+![enter image description here](https://lh3.googleusercontent.com/hZ0ZgYgXJdC_TfGKybt3UL0v-MP77DZ6h6rp_-sPXHx83S5pxDZL2Hz1KhOmqO2qU0LI4XIEeesC1W8DU_DYoLjugumA5BNc4VgSydGv11itRmcsbdC04ObfzB4kO9AE_zEIkwgHN50Fj-S5NWThvHsFd7aQqTxOYvEvLXJpQIuDVPBEt3vxrWbI8tNqVuRL3zjRekPXoAinlwZ-yhZBq1Sny7wICaTzDCAsvA6dSKGhX4bFEecSJcLljTZ2Rp16MYwkhlKey-SoahkUn9uwWIC1iihnUIuoZVcGovtY2UEX_ZD6EFQtjPOHOGr1uPUkhaMlXfaceZf9PvwShso-vwdF-6XP7AcG5WM7ATNFz8pBkT0ouR3GyFu_HRJ6QPm4hK86Z7zbjqvR12XBOZ_VGPDGDZQWNzYpO_v4oYvbFtZP0A_8f1_2MrBH-HZZxycIa9hpt197wn_1bWKlrf4XK31duFU1OLtw-O7XWfG1gbbCOn-j1oAa5MvgJcRkL485sYtUFWC7GriYNYHDbRiqOWeiJRGenJmG8oHVawM-8Z7TM9sZv98s4iM8rdJztH-CUeec249UdcTk3YBG1M_SbRcqUPye6BKevAGuWnZGf9iIngq-5WmuDiIDnAoh7pK4OlSaZ5XIrzVIc8iJ0vyf2BA6NasF9-alupJ9RgZ4v0ekcryYAPo-HOMD_4L9zvekffAc86on2x09fKDW9SVEzzU=s1080-no?authuser=0)
+# Sjuheon -  JUNIOR BACKEND 	DEVELOPER
+My steps to become an advanced Backend developer
 
-MainTitle
-=============
+## Sources
 
-Subitle
---------
+ 
+
+ - Java
+ - HTML + CSS + JS
+ - Spring framework
