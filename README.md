@@ -1,4 +1,4 @@
-# My Assets += JAVA;
+# Java EveryDay!
 My personal record for Java study
 
 MainTitle
@@ -6,12 +6,3 @@ MainTitle
 
 Subitle
 --------
-
-# Class1
-asdfasdf
-
-## class2
-asdfasf
-asdasfd
-
-###### class3
