@@ -1,3 +1,50 @@
-```java
-P p = new P();
+## 생성자 (constructor)
+클래스를 처음 만들 때 멤버변수나 상수를 초기화
+``` java
+package constructor;
+
+public class Person	{
+	String name;
+	float height;
+	float weight;
+	public void getName()	{
+		return name;
+}
 ```
+class Person에서 멤버변수, 메서드 선언
+```  java
+package constructor;
+
+public class PersonTest	{
+	public static void main(String[] args		{
+		Person personS = new Person();
+	}
+}		
+```
+자바에서 클래스를 생성할 때에는 new 예약어를 사용하고 이어서 생성자 (Person)를 써준다. 
+>Person PersonS = new Person();
+>클래스형 변수 이름 = new 생성자
+
+클래스 자료형 (Person) 변수 (PersonS)를 선언하고 new 예약어로 생성자를 호출하여 대입하면 새로운 클래스가 생성된다.
+클래스가 생성된다는 것은 클래스를 실제 사용할 수 있도록 <b>메모리 공간(Heap)을 할당</b> 받는다는 뜻인데, <i>이렇게 생성된 클래스를 인스턴스라고 하고 인스턴스를 가리키는 변수를 '참조변수' 라고 한다.</i>
+
+### 참조 변수의 사용
+
+참조 변수를 사용하면 인스턴스의 <b>멤버 변수와 메서드</b>를 사용할 수 있는데, 이때 도트(.) 연산자를 사용한다.
+``` java
+personS.height = 178.2; //멤버 변수 사용
+System.out.println(personS.getName()); //메서드 사용
+```
+
+
+#### 인스턴스와 힙 메모리
+new Person()을 선언하면 Person 하나가 생성되는데, 각 Person은 name, height, weight 등의 멤버 변수를 가진다.
+이들 변수를 저장할 공간이 있어야 하는데, 이 때 사용하는 메모리가 <b>Heap 메모리</b>이다. 클래스 생성자를 하나 호출하면 인스턴스가 Heap 메모리에 생성된다.
+``` java
+Person personS = new Person();
+//Heap memory ( name, weight, height, getName )
+```
+위와 같이 생성된 클래스를 personS 에 대입하면, 인스턴스가 저장된 메모리를 personS 변수가 가리키게된다.
+> 스택 메모리 (personS) --> 힙 메모리 (Person 클래스 생성)
+> 
+personS 변수는 <b>지역 변수</b>로, <b>스택 메모리</b> 내에 생성되며 <b>인스턴스</b>는 <b>힙 메모리</b>에 생성된다. <i>지역변수 personS 에 생성된 인스턴스를 대입한다는 것은 personS 에 인스턴스가 생성된 힙 메모리의 주소를 대입하는것과 같다.</i>
