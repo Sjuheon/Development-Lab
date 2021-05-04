@@ -1,4 +1,4 @@
-![thumbnail](./img/Sjuheon Thumbnail.png)
+![thumbnail](./image/Sjuheon Thumbnail.png)
 # Sjuheon -  JUNIOR BACKEND 	DEVELOPER
 My steps to become an advanced Backend developer
 
