@@ -1,7 +1,2 @@
-# Sjuheon -  JUNIOR BACKEND 	DEVELOPER
-My steps to become an advanced Backend developer
-<br></br>
-### Tools
- - Java
- - HTML + CSS + JS
- - Spring framework
+# Sjuheon - Development-Lab
+공부한 것을 기록해나가며 정리하는 공간입니다.
