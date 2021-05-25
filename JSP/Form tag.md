@@ -38,8 +38,8 @@
 		out.println("Password = " + passwd + "<br>");
 ```
 
-`String id = request.getParameter("id");`
-`String passwd = request.getParameter("passwd");`
+`String id = request.getParameter("id");` <br>
+`String passwd = request.getParameter("passwd");` <br>
 클라이언트에서 전송되는 id 와 passwd 라는 이름의 파라미터 값을 수신
 
 `response.setContentType("text/html;charset=euc-kr");`
